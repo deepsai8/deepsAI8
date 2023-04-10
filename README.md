@@ -6,18 +6,18 @@
 <img align="right" width=450px src="https://github-readme-stats.vercel.app/api?username=deepsai8&show_icons=true&count_private=true&theme=tokyonight&text_color=e4bf7a" />
 
 Here are some ideas to get you started:
-- 🔭 I’m currently working on Tensor Factorization for for extracting biomarkers in SELECTS (Self Limiting Epilepsy with Central Temporal Spikes)
+- 🔭 I’m currently working on Tensor Factorization for extracting biomarkers in SELECTS (Self Limiting Epilepsy with Central Temporal Spikes)
 - ⌨️ Programming Languages: Python, SQL
 - 📚 Machine Learning Knowhow: Regression, Classification, Bagging, Boosting, Dimensionality Reduction, Clustering, Deep Learning*
 - 📦 Databases: PostgreSQL (SQL), MongoDB(NoSQL)
 - 📤 Distributed Computing: Apache Spark, Databricks, Airflow
 - ✨ Visualization: Seaborn, MAtplotlib, PowerBI
 
-*:In Progress 
+*In Progress 
 
 Hobbies:
-- 🏔️ 3D Modeling and Game Art
-- Find me on <a href='https://sketchfab.com/dy4in'>Sketchfab</a> and <a href='https://dy4in.itch.io/'>itch.io</a>
+- 🏔️ 3D Modeling, Game Art, Trekking
+- ⚡⚡ Find me on <a href='https://sketchfab.com/dy4in'>Sketchfab</a> and <a href='https://dy4in.itch.io/'>itch.io</a>
 
 Social:
 - <a href= https://www.linkedin.com/in/deepaksingh8819/> LinkedIn </a>
