@@ -20,7 +20,7 @@ Hobbies:
 - Find me on <a href='https://sketchfab.com/dy4in'>Sketchfab</a> and <a href='https://dy4in.itch.io/'>itch.io</a>
 
 Social:
-- <a href: https://www.linkedin.com/in/deepaksingh8819/> LinkedIn </a>
+- <a href= https://www.linkedin.com/in/deepaksingh8819/> LinkedIn </a>
 
 <!--
 ![LeetCode Stats](https://leetcard.jacoblin.cool/elenaliao1002?theme=unicorn&ext=heatmap)
