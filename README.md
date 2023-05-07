@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 *In Progress 
 
 Hobbies:
+- 🏦 Building a stock market research platform called <a href='https://tinyurl.com/senti-meter'> sentimetr </a>
 - 🏔️ 3D Modeling, Game Art, Trekking
 - ⚡⚡ Find me on <a href='https://sketchfab.com/dy4in'>Sketchfab</a> and <a href='https://dy4in.itch.io/'>itch.io</a>
 
