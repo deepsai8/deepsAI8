@@ -6,7 +6,7 @@
 <img align="right" width=450px src="https://github-readme-stats.vercel.app/api?username=deepsai8&show_icons=true&count_private=true&theme=tokyonight&text_color=e4bf7a" />
 
 Here are some ideas to get you started:
-- 🔭 I’m currently working on Tensor Factorization for extracting biomarkers in SELECTS (Self Limiting Epilepsy with Central Temporal Spikes)
+- 🔭 I’m currently working on Tensor Factorization for extracting biomarkers in SeLECTS (Self Limiting Epilepsy with Central Temporal Spikes)
 - ⌨️ Programming Languages: Python, SQL
 - 📚 Machine Learning Knowhow: Regression, Classification, Bagging, Boosting, Dimensionality Reduction, Clustering, Deep Learning*
 - 📦 Databases: PostgreSQL (SQL), MongoDB(NoSQL)
