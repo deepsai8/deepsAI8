@@ -4,7 +4,6 @@
 👋 Hi, I’m Deepak, Currently a Data Scientist @ BCH, I have background in both Data Science and business with an inclination towards technology
 
 <img align="right" width=450px src="https://github-readme-stats.vercel.app/api?username=deepsai8&show_icons=true&count_private=true&theme=tokyonight&text_color=e4bf7a" />
-<img align="right" width=450px src="https://github-readme-stats.vercel.app/api?username=deepsaia&show_icons=true&count_private=true&theme=tokyonight&text_color=e4bf7a" />
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on Tensor Factorization for extracting biomarkers in SeLECTS (Self Limiting Epilepsy with Central Temporal Spikes)
